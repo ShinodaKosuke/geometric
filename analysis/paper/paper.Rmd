@@ -1,8 +1,8 @@
 ---
 title: "Title Goes Here"
 author:
-  - Myfirstname Mylastname:
-      email: fl@oneplace.edu
+  - Myfirstname Mylastname:篠田
+      email:shinoda917@gmail.com
       institute: [UofO]
       correspondence: true
   - Yourfirstname Yourlastname:
