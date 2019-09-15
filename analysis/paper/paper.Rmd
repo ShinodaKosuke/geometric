@@ -47,7 +47,7 @@ knitr::opts_chunk$set(
 
 # Introduction
 
-Here is a citation [@Marwick2017]
+Here is a citation [@Marwick2017] 
 
 # Background
 
